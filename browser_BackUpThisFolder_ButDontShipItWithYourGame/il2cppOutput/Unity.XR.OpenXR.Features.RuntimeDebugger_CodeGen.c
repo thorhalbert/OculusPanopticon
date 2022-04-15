@@ -1,0 +1,74 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_mB3B6C22CD192BC412E333F0EDBBC2AFD9A929713 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_m3974BFD409CFD5F7DBCD3B19CB58E75464577E21 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_m9034661B77DF804780DCECF2F6CCE06C697E5DE8 (void);
+extern void RuntimeDebuggerOpenXRFeature_HookGetInstanceProcAddr_m07B1D4EC990E11D9C93C633FA0AC92376B89C069 (void);
+extern void RuntimeDebuggerOpenXRFeature_RecvMsg_m537C6529B33C9B9FFE3149ADE159E9F043597461 (void);
+extern void RuntimeDebuggerOpenXRFeature_Native_HookGetInstanceProcAddr_m82D21C1EA80D9D8DC177318B3D1477B4E8023C7A (void);
+extern void RuntimeDebuggerOpenXRFeature_Native_GetDataForRead_mB4B6D4D94B05795FA00E599CDD8754B5F9C719D1 (void);
+extern void RuntimeDebuggerOpenXRFeature_Native_StartDataAccess_m448D36F6CD27D7F2C3EEE48D4CFAE378434EC4E9 (void);
+extern void RuntimeDebuggerOpenXRFeature_Native_EndDataAccess_m7DCBDD8245A3090FA4609FB69DD1F04595EC4B14 (void);
+extern void RuntimeDebuggerOpenXRFeature__ctor_m2DC84C4F7091238BD265B1B96D5719203C46C393 (void);
+extern void RuntimeDebuggerOpenXRFeature__cctor_m4693FD75E794424D0C4DAA0DEAAF3D62BED6679F (void);
+static Il2CppMethodPointer s_methodPointers[11] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_mB3B6C22CD192BC412E333F0EDBBC2AFD9A929713,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_m3974BFD409CFD5F7DBCD3B19CB58E75464577E21,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_m9034661B77DF804780DCECF2F6CCE06C697E5DE8,
+	RuntimeDebuggerOpenXRFeature_HookGetInstanceProcAddr_m07B1D4EC990E11D9C93C633FA0AC92376B89C069,
+	RuntimeDebuggerOpenXRFeature_RecvMsg_m537C6529B33C9B9FFE3149ADE159E9F043597461,
+	RuntimeDebuggerOpenXRFeature_Native_HookGetInstanceProcAddr_m82D21C1EA80D9D8DC177318B3D1477B4E8023C7A,
+	RuntimeDebuggerOpenXRFeature_Native_GetDataForRead_mB4B6D4D94B05795FA00E599CDD8754B5F9C719D1,
+	RuntimeDebuggerOpenXRFeature_Native_StartDataAccess_m448D36F6CD27D7F2C3EEE48D4CFAE378434EC4E9,
+	RuntimeDebuggerOpenXRFeature_Native_EndDataAccess_m7DCBDD8245A3090FA4609FB69DD1F04595EC4B14,
+	RuntimeDebuggerOpenXRFeature__ctor_m2DC84C4F7091238BD265B1B96D5719203C46C393,
+	RuntimeDebuggerOpenXRFeature__cctor_m4693FD75E794424D0C4DAA0DEAAF3D62BED6679F,
+};
+static const int32_t s_InvokerIndices[11] = 
+{
+	5210,
+	5242,
+	2683,
+	2090,
+	2338,
+	3727,
+	4085,
+	5286,
+	5286,
+	2683,
+	5286,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_RuntimeDebugger_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_RuntimeDebugger_CodeGenModule = 
+{
+	"Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+	11,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
